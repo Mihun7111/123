@@ -17,3 +17,6 @@
 ![image](https://user-images.githubusercontent.com/77574305/173566188-8cf2c126-b3a3-48b4-b250-7f34ce3a7f3a.png)
 ## 在 HTML 中找此頁使用的 HTTP method 和 magic number
 ![image](https://user-images.githubusercontent.com/77574305/173566375-e33e097c-66f8-4ae8-bd9d-ccf15a9010a6.png)
+
+#ㄖwebgoat
+WebGoat是專門用來練習漏洞的Web應用程式，演示Web應用程序中的典型安全漏洞的應用程序，在應用程序安全審計的上下文中系統、條理地講解如何測試和利用這些安全漏洞。
