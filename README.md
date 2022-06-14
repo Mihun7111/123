@@ -8,3 +8,6 @@
 ![3](https://user-images.githubusercontent.com/77574305/173563500-448624ae-5811-4b9d-a57e-d325b6615c50.png)
 ## 4.進入webgoat
 輸入網址：http://localhost:8080/WebGoat
+![image](https://user-images.githubusercontent.com/77574305/173564606-9170b2ff-7779-4449-8204-4f50bf4ccafe.png)
+建立新的帳號，開始演練各種漏洞
+![image](https://user-images.githubusercontent.com/77574305/173564969-e286bd41-b952-40ef-be17-2b3a2155c4e3.png)
