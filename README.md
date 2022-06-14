@@ -12,3 +12,8 @@
 
 建立新的帳號，開始演練各種漏洞
 ![image](https://user-images.githubusercontent.com/77574305/173564969-e286bd41-b952-40ef-be17-2b3a2155c4e3.png)
+# HTTP Basics
+## 輸入名字即可
+![image](https://user-images.githubusercontent.com/77574305/173566188-8cf2c126-b3a3-48b4-b250-7f34ce3a7f3a.png)
+## 在 HTML 中找此頁使用的 HTTP method 和 magic number
+![image](https://user-images.githubusercontent.com/77574305/173566375-e33e097c-66f8-4ae8-bd9d-ccf15a9010a6.png)
